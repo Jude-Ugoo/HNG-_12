@@ -67,7 +67,8 @@ The API provides the following information:
 
 ```bash
 curl http://localhost:7000
+```
 
+### Link
 
-Link
 [HNG Node.js Developer Listing](https://hng.tech/hire/nodejs-developers)
